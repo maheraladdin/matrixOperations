@@ -1,5 +1,7 @@
 # matrix operations
 
+[![explanation video](https://img.youtube.com/vi/FLHyfsUzGWQ/0.jpg)](https://www.youtube.com/watch?v=FLHyfsUzGWQ)
+
 ## enterMatrix
 
 ![enter matrix procedure](https://lh3.googleusercontent.com/yOz5phiRGd6qEB2-E5Cp9Cn_3-VcAwOdh7rTcqq0f2wW7fncUuwMtDiY0GV9RgwKHsue3law9Rjc7xofcbaOXFXlx_wxon2mAN5oZHkQBD0RAxngnYmd9ScwFlG_TJdM5lEabRKQFg=w2400 "enterMatrix")
